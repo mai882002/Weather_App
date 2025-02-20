@@ -1,16 +1,28 @@
-# weather_app
+# 🌤️ Weather App - Flutter  
 
-A new Flutter project.
+A simple weather app built with **Flutter**, using **Dio** for API requests and **Bloc (Cubit)** for state management.  
 
-## Getting Started
+## 🚀 Features  
+- 📍 Real-time weather updates  
+- 🌡️ Displays temperature, humidity & conditions  
+- ⚡ Uses Dio for API calls  
+- 🔄 State management with Bloc (Cubit)  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used  
+- Flutter, Dart  
+- Dio (API requests)  
+- Bloc (Cubit)
+  
+## 🎥 Demo 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 📦 Installation  
+```bash
+git clone https://github.com/yourusername/weather-app.git  
+cd weather-app  
+flutter pub get  
+flutter run
+
